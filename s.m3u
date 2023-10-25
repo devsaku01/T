@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Zee_Bangla_logo.png/250px-Zee_Bangla_logo.png" group-title="Bangla", Zee Bangla
+http://172.16.172.18:8080/roarzone/bk/34/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/250px-Star_Jalsha_logo_2023.png" group-title="Bangla", Star Jalsha
+http://172.16.172.18:8080/roarzone/bk/30/tracks-v1a1/mono.m3u8
+
+#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", Gazi Tv
+http://172.16.172.18:8080/roarzone/bk/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="Bangla", T Sports
+http://172.16.172.18:8080/roarzone/bk/102/index.m3u8
